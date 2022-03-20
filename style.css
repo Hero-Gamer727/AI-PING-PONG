@@ -1,0 +1,17 @@
+.heading{
+    text-align: left;
+    width: 100%;
+    padding:15px;
+}
+h2{
+    display: inline;
+}
+
+.Instructions{
+    float: right;
+}
+
+#play_button{
+    font-size: 20px;
+    margin-top:25px;
+}
